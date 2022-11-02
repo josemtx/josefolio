@@ -49,9 +49,9 @@ module.exports = {
         link: 'https://www3.gobiernodecanarias.org/medusa/edublog/iesjosearencibiagil/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Web Developer',
+        description: 'Web developer, September 2022 - Now',
+        link: 'https://www.ulpgc.es/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -59,16 +59,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript, Python, C, R',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'SQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Good team worker, leading skills, app desing',
       },
     ],
   },
