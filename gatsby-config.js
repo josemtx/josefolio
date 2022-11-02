@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Jose Mataix',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Jose Mataix | Data Science Student`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
