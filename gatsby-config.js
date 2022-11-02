@@ -24,10 +24,9 @@ module.exports = {
         link: 'https://github.com/josemtx/josefolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'OlympicAnalytics',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'My coworkers Sandro, Alberto and I made a project analysing some data about the last olympics',
       },
       {
         name: 'Another Cool Project',
