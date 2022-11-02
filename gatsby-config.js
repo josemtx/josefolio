@@ -11,10 +11,10 @@ module.exports = {
     // Optional: Twitter account handle
     author: `@maataaix`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/josemtx`,
     // Optional: LinkedIn account URL
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I´m always trying to learn about the world we live in, that´s what made me choose my degree.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
