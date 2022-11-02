@@ -39,14 +39,14 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Data Scientist',
+        description: 'Data Scientist Student, September 2021 - Now',
+        link: 'https://www.ulpgc.es/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Bachillerato de Salud',
+        description: 'Bachelor of Health Graduate, September 2019 - June 2021',
+        link: 'https://www3.gobiernodecanarias.org/medusa/edublog/iesjosearencibiagil/',
       },
       {
         name: 'Hooli',
