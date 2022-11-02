@@ -7,9 +7,9 @@ module.exports = {
     // Main Site Title
     title: `Jose Mataix | Data Science Student`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Simple resume about my career.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@maataaix`,
     // Optional: Github account URL
     github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
