@@ -27,6 +27,7 @@ module.exports = {
         name: 'OlympicAnalytics',
         description:
           'My coworkers Sandro, Alberto and I made a project analysing some data about the last olympics',
+        link: 'https://github.com/josemtx/josefolio',
       },
       {
         name: 'Another Cool Project',
