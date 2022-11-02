@@ -30,10 +30,10 @@ module.exports = {
         link: 'https://github.com/josemtx/josefolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Radisson Blu',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'At marketing and consumer behaviour we made a web local hosted about this hotel called Radisson Blu',
+        link: 'https://aep2223.ulpgc.es/course/view.php?id=2097',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
